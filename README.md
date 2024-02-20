@@ -3,7 +3,7 @@
 This project illustrates an issue with Rider and F#.
 
 I have an F# project which depends on a C# project.
-In I'm trying to use an object returned from C# method, but the IDE doesn't show properties which have overload with interfaces.
+I'm trying to use an object returned from C# method, but the IDE doesn't show properties which have overload with interfaces.
 
 It also doesn't compile if I try to use properties.
 
