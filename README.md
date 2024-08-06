@@ -10,3 +10,6 @@ It also doesn't compile if I try to use properties.
 Instead of properties, it shows setter methods (and doesn't show getter methods), however those properties must be get-only.
 
 Expected behavior: The IDE should show the properties instead of the setter methods.
+
+
+12312312
