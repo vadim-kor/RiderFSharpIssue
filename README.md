@@ -13,3 +13,10 @@ Expected behavior: The IDE should show the properties instead of the setter meth
 
 
 12312312
+
+
+qeqeq
+
+
+
+qeqeewqe
